@@ -12,3 +12,4 @@ Grencione
 5
 
 6
+Stramkale
