@@ -3,6 +3,7 @@ atkārtojums
 Grencione
 1)
 
+berzina
 2
 
 3
